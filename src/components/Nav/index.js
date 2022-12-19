@@ -49,7 +49,8 @@ function Nav() {
                 {category.name}
               </span>
             </li>
-          ))}
+          ))
+          }
         </ul>
       </nav>
     </header>
